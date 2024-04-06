@@ -1,6 +1,6 @@
 # 🌤️ JavascriptWeatherApp
 
-_\#Javascript \#RESTAPIs \#HTML \#CSS \#Bootstrap
+_\#Javascript \#RESTAPIs \#HTML \#CSS \#Bootstrap_
 
 Project from Intro to Web Dev class that uses Javascript to create a weather app
 
