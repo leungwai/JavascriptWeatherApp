@@ -1,8 +1,8 @@
 # 🌤️ JavascriptWeatherApp
 
-_\#Javascript \#RESTAPIs \#HTML \#CSS \#Bootstrap_
-
 Project from Intro to Web Dev class that uses Javascript to create a weather app
+
+_\#Javascript \#RESTAPIs \#HTML \#CSS \#Bootstrap_
 
 > [!IMPORTANT]
 > It is currently not working properly as the OpenWeather API is not loading content.
